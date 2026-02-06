@@ -12,6 +12,7 @@ Practice problems
 | [0189-rotate-array](https://github.com/hareesh-27/Array-and-strings-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/hareesh-27/Array-and-strings-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hareesh-27/Array-and-strings-/tree/master/0485-max-consecutive-ones) |
+| [0922-sort-array-by-parity-ii](https://github.com/hareesh-27/Array-and-strings-/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hareesh-27/Array-and-strings-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -23,12 +24,14 @@ Practice problems
 | [0075-sort-colors](https://github.com/hareesh-27/Array-and-strings-/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/hareesh-27/Array-and-strings-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/hareesh-27/Array-and-strings-/tree/master/0283-move-zeroes) |
+| [0922-sort-array-by-parity-ii](https://github.com/hareesh-27/Array-and-strings-/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hareesh-27/Array-and-strings-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/hareesh-27/Array-and-strings-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/hareesh-27/Array-and-strings-/tree/master/0169-majority-element) |
+| [0922-sort-array-by-parity-ii](https://github.com/hareesh-27/Array-and-strings-/tree/master/0922-sort-array-by-parity-ii) |
 ## Hash Table
 |  |
 | ------- |
