@@ -14,6 +14,7 @@ Practice problems
 | [0283-move-zeroes](https://github.com/hareesh-27/Array-and-strings-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hareesh-27/Array-and-strings-/tree/master/0485-max-consecutive-ones) |
 | [0922-sort-array-by-parity-ii](https://github.com/hareesh-27/Array-and-strings-/tree/master/0922-sort-array-by-parity-ii) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/hareesh-27/Array-and-strings-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hareesh-27/Array-and-strings-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
