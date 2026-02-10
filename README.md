@@ -6,6 +6,7 @@ Practice problems
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/hareesh-27/Array-and-strings-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/hareesh-27/Array-and-strings-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/hareesh-27/Array-and-strings-/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hareesh-27/Array-and-strings-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -19,6 +20,7 @@ Practice problems
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/hareesh-27/Array-and-strings-/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/hareesh-27/Array-and-strings-/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -56,4 +58,8 @@ Practice problems
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hareesh-27/Array-and-strings-/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/hareesh-27/Array-and-strings-/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
