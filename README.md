@@ -22,6 +22,7 @@ Practice problems
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/hareesh-27/Array-and-strings-/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/hareesh-27/Array-and-strings-/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/hareesh-27/Array-and-strings-/tree/master/0189-rotate-array) |
 ## Two Pointers
