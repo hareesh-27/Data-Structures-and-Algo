@@ -1,5 +1,4 @@
-# Array-and-strings-
-Practice problems
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
