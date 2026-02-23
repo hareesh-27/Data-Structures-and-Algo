@@ -7,12 +7,13 @@ public:
         for(int i=0;i<nums.size();i++) st.insert(nums[i]);
 
         for(auto it: st)
-        {   int cnt=0;
+        {   int cnt=1;
             if(st.find(it-1)==st.end())
             {
+                
                 //cnt+=1;
                 int x=it;
-                while(st.find(x)!=st.end())
+                while(st.find(x+1)!=st.end())
                 {
                     x+=1;
                     cnt+=1;
