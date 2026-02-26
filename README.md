@@ -8,6 +8,7 @@
 | [0048-rotate-image](https://github.com/hareesh-27/Array-and-strings-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/hareesh-27/Array-and-strings-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/hareesh-27/Array-and-strings-/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/hareesh-27/Array-and-strings-/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hareesh-27/Array-and-strings-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/hareesh-27/Array-and-strings-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/hareesh-27/Array-and-strings-/tree/master/0169-majority-element) |
@@ -93,4 +94,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/hareesh-27/Array-and-strings-/tree/master/0128-longest-consecutive-sequence) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/hareesh-27/Array-and-strings-/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/hareesh-27/Array-and-strings-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
