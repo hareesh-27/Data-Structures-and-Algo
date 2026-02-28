@@ -102,4 +102,5 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/hareesh-27/Array-and-strings-/tree/master/0078-subsets) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/hareesh-27/Array-and-strings-/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
