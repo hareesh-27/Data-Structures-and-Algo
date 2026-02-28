@@ -14,6 +14,7 @@
 | [0137-single-number-ii](https://github.com/hareesh-27/Array-and-strings-/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/hareesh-27/Array-and-strings-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/hareesh-27/Array-and-strings-/tree/master/0189-rotate-array) |
+| [0260-single-number-iii](https://github.com/hareesh-27/Array-and-strings-/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/hareesh-27/Array-and-strings-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hareesh-27/Array-and-strings-/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/hareesh-27/Array-and-strings-/tree/master/0560-subarray-sum-equals-k) |
@@ -104,5 +105,6 @@
 | ------- |
 | [0078-subsets](https://github.com/hareesh-27/Array-and-strings-/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/hareesh-27/Array-and-strings-/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/hareesh-27/Array-and-strings-/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/hareesh-27/Array-and-strings-/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
