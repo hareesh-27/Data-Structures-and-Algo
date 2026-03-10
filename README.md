@@ -16,6 +16,7 @@
 | [0137-single-number-ii](https://github.com/hareesh-27/Array-and-strings-/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/hareesh-27/Array-and-strings-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/hareesh-27/Array-and-strings-/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/hareesh-27/Array-and-strings-/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/hareesh-27/Array-and-strings-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/hareesh-27/Array-and-strings-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hareesh-27/Array-and-strings-/tree/master/0283-move-zeroes) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/hareesh-27/Array-and-strings-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/hareesh-27/Array-and-strings-/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/hareesh-27/Array-and-strings-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/hareesh-27/Array-and-strings-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hareesh-27/Array-and-strings-/tree/master/0349-intersection-of-two-arrays) |
 | [0922-sort-array-by-parity-ii](https://github.com/hareesh-27/Array-and-strings-/tree/master/0922-sort-array-by-parity-ii) |
@@ -60,6 +62,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/hareesh-27/Array-and-strings-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/hareesh-27/Array-and-strings-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/hareesh-27/Array-and-strings-/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/hareesh-27/Array-and-strings-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/hareesh-27/Array-and-strings-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hareesh-27/Array-and-strings-/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/hareesh-27/Array-and-strings-/tree/master/0560-subarray-sum-equals-k) |
@@ -73,6 +76,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hareesh-27/Array-and-strings-/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/hareesh-27/Array-and-strings-/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
