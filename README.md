@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hareesh-27/Array-and-strings-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/hareesh-27/Array-and-strings-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/hareesh-27/Array-and-strings-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/hareesh-27/Array-and-strings-/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/hareesh-27/Array-and-strings-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/hareesh-27/Array-and-strings-/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hareesh-27/Array-and-strings-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/hareesh-27/Array-and-strings-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/hareesh-27/Array-and-strings-/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hareesh-27/Array-and-strings-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/hareesh-27/Array-and-strings-/tree/master/0152-maximum-product-subarray) |
 ## Simulation
@@ -153,6 +155,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/hareesh-27/Array-and-strings-/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/hareesh-27/Array-and-strings-/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/hareesh-27/Array-and-strings-/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
