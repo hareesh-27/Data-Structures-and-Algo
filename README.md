@@ -22,6 +22,7 @@
 | [0268-missing-number](https://github.com/hareesh-27/Array-and-strings-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hareesh-27/Array-and-strings-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/hareesh-27/Array-and-strings-/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/hareesh-27/Array-and-strings-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/hareesh-27/Array-and-strings-/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/hareesh-27/Array-and-strings-/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/hareesh-27/Array-and-strings-/tree/master/0904-fruit-into-baskets) |
@@ -48,6 +49,7 @@
 | [0189-rotate-array](https://github.com/hareesh-27/Array-and-strings-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/hareesh-27/Array-and-strings-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/hareesh-27/Array-and-strings-/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/hareesh-27/Array-and-strings-/tree/master/0455-assign-cookies) |
 | [0922-sort-array-by-parity-ii](https://github.com/hareesh-27/Array-and-strings-/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hareesh-27/Array-and-strings-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -58,6 +60,7 @@
 | [0229-majority-element-ii](https://github.com/hareesh-27/Array-and-strings-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/hareesh-27/Array-and-strings-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hareesh-27/Array-and-strings-/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/hareesh-27/Array-and-strings-/tree/master/0455-assign-cookies) |
 | [0922-sort-array-by-parity-ii](https://github.com/hareesh-27/Array-and-strings-/tree/master/0922-sort-array-by-parity-ii) |
 ## Hash Table
 |  |
@@ -146,4 +149,8 @@
 | [0260-single-number-iii](https://github.com/hareesh-27/Array-and-strings-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/hareesh-27/Array-and-strings-/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/hareesh-27/Array-and-strings-/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/hareesh-27/Array-and-strings-/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
