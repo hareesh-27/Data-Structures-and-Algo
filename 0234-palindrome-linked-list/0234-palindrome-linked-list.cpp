@@ -1,23 +1,39 @@
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-        vector<int> one;
-        vector<int> two;
-        ListNode* temp=head;
-        stack<int> st;
-        
-        while(temp != nullptr)
+        ListNode* fast=head;
+        ListNode* slow=head;
+
+        //finding middle
+        while(fast != nullptr && fast->next !=nullptr)
         {
-            one.push_back(temp->val);
-            st.push(temp->val);
-            temp=temp->next;
+            slow=slow->next;
+            fast=fast->next->next;
         }
 
-        while(st.empty() == false)
+        //reversing 2nd half. 
+        ListNode* temp=slow;
+        ListNode*prev=nullptr;
+
+        while(temp!=nullptr)
         {
-            two.push_back(st.top());
-            st.pop();
+            ListNode* front=temp->next;
+            temp->next=prev;
+            prev=temp;
+            temp=front;
         }
-        return one == two;        
+
+        //comparing both sides
+        ListNode* left=head;
+        ListNode* right=prev;
+
+        while(right!=nullptr)
+        {
+            if(left->val != right->val) return false;
+            left=left->next;
+            right=right->next;        
+        }
+
+        return true;
     }
 };
