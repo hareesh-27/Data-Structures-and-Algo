@@ -134,6 +134,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/hareesh-27/Array-and-strings-/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/hareesh-27/Array-and-strings-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hareesh-27/Array-and-strings-/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/hareesh-27/Array-and-strings-/tree/master/1004-max-consecutive-ones-iii) |
@@ -150,6 +151,7 @@
 | ------- |
 | [0078-subsets](https://github.com/hareesh-27/Array-and-strings-/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/hareesh-27/Array-and-strings-/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/hareesh-27/Array-and-strings-/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/hareesh-27/Array-and-strings-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/hareesh-27/Array-and-strings-/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/hareesh-27/Array-and-strings-/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -181,6 +183,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hareesh-27/Array-and-strings-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hareesh-27/Array-and-strings-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/hareesh-27/Array-and-strings-/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -191,4 +194,5 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hareesh-27/Array-and-strings-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hareesh-27/Array-and-strings-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/hareesh-27/Array-and-strings-/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
