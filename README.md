@@ -184,6 +184,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/hareesh-27/Array-and-strings-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hareesh-27/Array-and-strings-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/hareesh-27/Array-and-strings-/tree/master/0222-count-complete-tree-nodes) |
+| [0700-search-in-a-binary-search-tree](https://github.com/hareesh-27/Array-and-strings-/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -195,4 +196,9 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/hareesh-27/Array-and-strings-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hareesh-27/Array-and-strings-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/hareesh-27/Array-and-strings-/tree/master/0222-count-complete-tree-nodes) |
+| [0700-search-in-a-binary-search-tree](https://github.com/hareesh-27/Array-and-strings-/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/hareesh-27/Array-and-strings-/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
