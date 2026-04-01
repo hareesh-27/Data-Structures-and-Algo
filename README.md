@@ -36,6 +36,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/hareesh-27/Array-and-strings-/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hareesh-27/Array-and-strings-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/hareesh-27/Array-and-strings-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1331-rank-transform-of-an-array](https://github.com/hareesh-27/Array-and-strings-/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hareesh-27/Array-and-strings-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hareesh-27/Array-and-strings-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -71,6 +72,7 @@
 | [0455-assign-cookies](https://github.com/hareesh-27/Array-and-strings-/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/hareesh-27/Array-and-strings-/tree/master/0658-find-k-closest-elements) |
 | [0922-sort-array-by-parity-ii](https://github.com/hareesh-27/Array-and-strings-/tree/master/0922-sort-array-by-parity-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/hareesh-27/Array-and-strings-/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 | [0904-fruit-into-baskets](https://github.com/hareesh-27/Array-and-strings-/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/hareesh-27/Array-and-strings-/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hareesh-27/Array-and-strings-/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/hareesh-27/Array-and-strings-/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hareesh-27/Array-and-strings-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Divide and Conquer
 |  |
