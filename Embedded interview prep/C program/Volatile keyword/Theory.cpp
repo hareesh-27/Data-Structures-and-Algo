@@ -30,6 +30,9 @@ Compiler won’t optimize reads of *x
 
 ✔️ You can change x normally
 ✔️ Must always re-read *x
+
+<img width="1605" height="1157" alt="image" src="https://github.com/user-attachments/assets/2718a014-4922-47a4-b82a-307773b14cfe" />
+
 ---------------------------------------------------------------------------
 🔹 Case 2
 int *volatile x = 0;
@@ -44,6 +47,9 @@ Compiler won’t optimize x
 
 ✔️ *x is stable
 ✔️ x itself can change anytime
+
+<img width="1661" height="1178" alt="image" src="https://github.com/user-attachments/assets/74d466ee-c13d-4a91-8931-73f320e00cad" />
+
 ---------------------------------------------------------------------------
 🔹 Case 3
 volatile int *volatile x = 0;
@@ -56,3 +62,6 @@ Pointer is also volatile
 🔹 What it means:
 Address can change anytime
 Value at that address can also change anytime
+
+<img width="1721" height="1305" alt="image" src="https://github.com/user-attachments/assets/f52f4d33-dc28-4237-b349-2abf1088fc7e" />
+
