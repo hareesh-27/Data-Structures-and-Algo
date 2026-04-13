@@ -78,4 +78,11 @@ This happens when **2 devices** try to take control over the bus.
 
 - In short:
   - Slave temporarily **controls timing**
+ 
+  ------------------------------------------------------------------------------------------------------
+  ## What happens to SCL in I2C protocol?
+   - **Idle State**: When the bus is idle, SCL is pulled HIGH by resistors.
+   - **Start/Stop Conditions**: SCL must be high when the SDA line transitions, signaling the start or end of transmission.
+   - **Data Synchronization:** For every bit of data transferred on the SDA line, the master generates one pulse on the SCL line.
+                               Data is typically valid when SCL is high and changes when SCL is low.
 
