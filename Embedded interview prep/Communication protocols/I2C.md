@@ -27,19 +27,18 @@
   - Finally stop bit **logic 0** by master. After this both SDA and SCL goes high
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
+## I2C arbitration and stretching
 
-**I2C arbiteration and stretching**
-
-  **I2C arbiteration**
-    - This happens when **2 devices** tries to take control over the bus.
+### I2C arbitration
+This happens when **2 devices** try to take control over the bus.
 
 ![I2C Arbitration](https://github.com/user-attachments/assets/c596de12-b287-49ba-84ac-01c2887a5460)
-            
-    - Here 2 devices tries to control the bus.
-    - Before explaining I2C arbitertion, we need to remember that I2C is a wired AND logic
-            - Initialyy both SDA and SCL is high. The thing is devices cannot pull them. They can pulled down or be floating
-            - So it doesn'nt matter whether device a is floating or pulled down, if device B is pulled low -> the line becomes low **=>WIRED AND**
 
-    - So, the device which send 0 to the line controls the line.
-    This is called arbiteration
-            
+- Here 2 devices try to control the bus  
+- Before explaining I2C arbitration, we need to remember that I2C is a **wired AND logic**  
+  - Initially both SDA and SCL are HIGH  
+  - Devices cannot drive HIGH, only pull LOW or release  
+  - If device B pulls LOW → line becomes LOW (**wired AND**)  
+
+- So, the device which sends **0** controls the line  
+- This is called **arbitration**
