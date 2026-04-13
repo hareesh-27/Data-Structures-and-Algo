@@ -48,7 +48,7 @@ This happens when **2 devices** try to take control over the bus.
 
 - Clock stretching is used when the **slave is not ready** to continue communication.
 
-![I2C Clock Stretching](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/I2C_clock_stretching.svg/1280px-I2C_clock_stretching.svg.png)
+<img width="2035" height="1186" alt="image" src="https://github.com/user-attachments/assets/faa87ca0-4d53-48fe-bc97-84d4aad7cac7" />
 
 - In I2C:
   - Master generates the clock (**SCL**)  
