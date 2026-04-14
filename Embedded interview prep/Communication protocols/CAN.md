@@ -38,32 +38,42 @@ CAN is a 2 wire protocol.
       - ACK
       - EOF
     
-   ## SOF 
-   Start of frame
-    - This is always 0. 0 is the dominant bit in CAN
-   
-   ## Arbiteration field
-   It contains 11 bit identifier and RTR
-     - **Identifier** - tells us the priority of  the message. If the message is top priority, all 11 bits are set to 0.
-     - **RTR** - indicates whether the frame is remote frame or not. 1 for remote frame, 0 for others.
-    
-   ## Control field
-   It contains IDE, r0 and DLC
-     - IDE - Identifier extension bit. Tells us whether the identifier is 11/29 bit. Dominant for 11 bit.
-     - r0  - reserved for future purpose. It is kept for future use so that new features can be added without modifying the existing protocol.
-     - DLC - Data length code. Indicates the length of actual data.
+  ## SOF  
+Start of Frame  
+- This is always 0.  
+- 0 is the dominant bit in CAN  
 
-   ## Data
-   If data length is 2 bytes, we set DLC to 2 ie:0010.
+## Arbitration Field  
+It contains 11-bit Identifier and RTR  
 
-   ## CRC
-   Cyclic redundany check
-    - Algorithm for checking errors on the data received in RX
-    
-   ## ACK
-   Acknowledgement bit
-    - After receiving data, the RX makes this bit dominant ensuirng data is received correctly
+- **Identifier**: Indicates the priority of the message.  
+  - Lower value (more 0s) → higher priority  
+- **RTR**: Indicates whether the frame is a remote frame  
+  - 1 → Remote frame  
+  - 0 → Data frame  
 
-   ## EOF
-   7 continuous recessive bits indicate end of frame
+## Control Field  
+It contains IDE, r0 and DLC  
+
+- **IDE**: Identifier Extension bit  
+  - Indicates whether the identifier is 11-bit or 29-bit  
+  - Dominant (0) → 11-bit identifier  
+- **r0**: Reserved bit for future use  
+  - Kept for future features without modifying protocol  
+- **DLC**: Data Length Code  
+  - Indicates the length of actual data  
+
+## Data  
+- If data length is 2 bytes, then DLC = 2 (0010)  
+
+## CRC  
+Cyclic Redundancy Check  
+- Used to detect errors in received data  
+
+## ACK  
+Acknowledgement bit  
+- Receiver makes this bit dominant (0) after successful reception  
+
+## EOF  
+- 7 continuous recessive bits (1s) indicate end of frame  
 
