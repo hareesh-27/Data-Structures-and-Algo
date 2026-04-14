@@ -44,14 +44,14 @@ CAN is a 2 wire protocol.
    
    ## Arbiteration field
    It contains 11 bit identifier and RTR
-    - **Identifier** - tells us the priority of  the message. If the message is top priority, all 11 bits are set to 0.
-    - **RTR** - indicates whether the frame is remote frame or not. 1 for remote frame, 0 for others.
-   
+     - **Identifier** - tells us the priority of  the message. If the message is top priority, all 11 bits are set to 0.
+     - **RTR** - indicates whether the frame is remote frame or not. 1 for remote frame, 0 for others.
+    
    ## Control field
    It contains IDE, r0 and DLC
-    - IDE - Identifier extension bit. Tells us whether the identifier is 11/29 bit. Dominant for 11 bit.
-    - r0  - reserved for future purpose. It is kept for future use so that new features can be added without modifying the existing protocol.
-    - DLC - Data length code. Indicates the length of actual data.
+     - IDE - Identifier extension bit. Tells us whether the identifier is 11/29 bit. Dominant for 11 bit.
+     - r0  - reserved for future purpose. It is kept for future use so that new features can be added without modifying the existing protocol.
+     - DLC - Data length code. Indicates the length of actual data.
 
    ## Data
    If data length is 2 bytes, we set DLC to 2 ie:0010.
