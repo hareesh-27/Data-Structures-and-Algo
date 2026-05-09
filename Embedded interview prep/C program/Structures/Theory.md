@@ -1,4 +1,3 @@
-````markdown id="v8q2lm"
 **What is Structure?**  
 
 A structure is the user-defined data type in C++. Structure creates the data type which can hold the multiple data types.
@@ -89,4 +88,3 @@ int main()
     return 0;
 }
 ```
-````
